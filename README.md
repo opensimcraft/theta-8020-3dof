@@ -14,6 +14,9 @@ cockpit and adding additional chassis to add motion later on.
   * Note: The Cradle Chassis is required to suspend the Roll Chassis
 
 ## TODOs
+The primary activity right now is to finalize the Cockpit Chassis as a 1.0
+release of the project by itself.
+
 * Convert the single Word assembly instructions document into individual
   assembly instructions for each chassis
 * Verify the 80/20 part numbers and machine codes to produce the BOMs for each
